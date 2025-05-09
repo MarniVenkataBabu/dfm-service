@@ -30,7 +30,7 @@
 	<properties>
 		<java.version>17</java.version>
 		<beam.version>2.54.0</beam.version> <!-- Check latest on Maven Central -->
-		<java.version>1.8</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
