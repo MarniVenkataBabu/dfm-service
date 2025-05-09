@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd">
+
+    <!-- Changes to include -->
+   <!-- <include file="/db.changelog/changes/app_init.sql"/>
+    <include file="/dfm/src/main/resources/db.changelog/changes/app_insert.sql"/>
+    <include file="/db.changelog/changes/db-changelog-1.0.xml" />
+   -->
+</databaseChangeLog>

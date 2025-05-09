@@ -1,0 +1,3 @@
+Filtered word: apple
+Filtered word: elephant
+Filtered word: banana
